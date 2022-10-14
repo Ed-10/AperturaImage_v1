@@ -15,7 +15,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author Adrian
+ * @author Eduardo
  */
 public class Visualizador extends javax.swing.JFrame {
 
